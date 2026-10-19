@@ -1,0 +1,10 @@
+[
+  {"url": "https://metabuild.city/",        "nombre": "Sitio corporativo MBC",      "vercel": "metabuild-website",        "dns": "A @ 76.76.21.21"},
+  {"url": "https://www.metabuild.city/",    "nombre": "Sitio corporativo MBC (www)", "vercel": "metabuild-website",        "dns": "CNAME www"},
+  {"url": "https://metabuildcity.com/",     "nombre": "Dominio antiguo → metabuild.city", "vercel": "-",                  "dns": "redirección 301", "destino": "metabuild.city"},
+  {"url": "https://hub.metabuild.city/",    "nombre": "Metabuild HUB",              "vercel": "metabuild-hub",            "dns": "CNAME hub"},
+  {"url": "https://agents.metabuild.city/", "nombre": "Metabuild Agents",           "vercel": "metabuild-agents",         "dns": "CNAME agents"},
+  {"url": "https://bim.metabuild.city/",    "nombre": "Metabuild BIM",              "vercel": "metabuild-bim",            "dns": "CNAME bim"},
+  {"url": "https://sport.metabuild.city/",  "nombre": "Metabuild Sport",            "vercel": "metabuild-sport-platform", "dns": "CNAME sport"},
+  {"url": "https://eximius.cl/",            "nombre": "Web Eximius (cliente)",      "vercel": "eximius-web",              "dns": "NS Vercel"}
+]
